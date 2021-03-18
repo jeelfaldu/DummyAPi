@@ -1,0 +1,9 @@
+{
+    "users": {
+        "id": "int",
+        "name":"string",
+        "email":"string",
+        "password":"string",
+        "token":"SHA256"
+    }
+}
